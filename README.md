@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gu4l3qe080osexw2?svg=true)](https://ci.appveyor.com/project/natashta/hw-test-4-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/7f0f1116dxo71we6?svg=true)](https://ci.appveyor.com/project/nugmanov87/ajs-homeworks-unit-test-1)
