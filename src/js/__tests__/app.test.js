@@ -1,28 +1,28 @@
-import showHealth from "../app";
+import showHealth from '../app';
 
-test("healthy", () => {
+test('healthy', () => {
   const person = {
-    name: "Маг",
-    health: 85
+    name: 'Маг',
+    health: 85,
   };
 
-  expect(showHealth(person)).toBe("healthy");
+  expect(showHealth(person)).toBe('healthy');
 });
 
-test("wounded", () => {
+test('wounded', () => {
   const person = {
-    name: "Маг",
-    health: 37
+    name: 'Маг',
+    health: 37,
   };
 
-  expect(showHealth(person)).toBe("wounded");
+  expect(showHealth(person)).toBe('wounded');
 });
 
-test("critical", () => {
+test('critical', () => {
   const person = {
-    name: "Маг",
-    health: 11
+    name: 'Маг',
+    health: 11,
   };
 
-  expect(showHealth(person)).toBe("critical");
+  expect(showHealth(person)).toBe('critical');
 });
