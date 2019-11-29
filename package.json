@@ -1,0 +1,37 @@
+{
+  "name": "ajs-homeworks-unit-test-1",
+  "version": "1.0.0",
+  "description": "домашнее задание 1 лекция 3",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-jest": "^24.9.0",
+    "babel-loader": "^8.0.6",
+    "core-js": "^3.4.5",
+    "css-loader": "^2.1.1",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0",
+    "jsdoc": "^3.6.3",
+    "webpack-cli": "^3.3.10",
+    "webpack": "^4.41.2",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nugmanov87/ajs-homeworks-unit-test-1.git"
+  },
+  "author": "spartak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nugmanov87/ajs-homeworks-unit-test-1/issues"
+  },
+  "homepage": "https://github.com/nugmanov87/ajs-homeworks-unit-test-1#readme"
+}
